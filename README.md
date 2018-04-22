@@ -1,8 +1,8 @@
 # Robotik-B33R
 
 Made with ♥ for Tech'Office Hackathon by
-* [https://github.com/syvido](syvido)
-* [https://github.com/julien00859](Julien00859)
-* [https://github.com/FlawTECH](FlawTECH)
-* [https://github.com/celestiel](Celestiel)
-* [https://github.com/mpindu](mpindu)
+* [syvido](https://github.com/syvido)
+* [Julien00859](https://github.com/julien00859)
+* [FlawTECH](https://github.com/FlawTECH)
+* [Celestiel](https://github.com/celestiel)
+* [mpindu](https://github.com/mpindu)
